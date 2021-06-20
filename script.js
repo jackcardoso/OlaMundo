@@ -1,5 +1,4 @@
 window.addEventListener('load', function() {
-
     var ola =  'Olá Mundo!';
     var elementH1 = document.createElement('h1');
 

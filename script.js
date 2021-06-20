@@ -1,6 +1,6 @@
 window.addEventListener('load', function() {
     var ola =  'Olá Mundo!';
-    var elementH1 = document.createElement('h1');
+    var elementH1 = document.createElement('h1'); // Cria a tag <h1>
 
     console.log(ola);
     window.alert(ola);
